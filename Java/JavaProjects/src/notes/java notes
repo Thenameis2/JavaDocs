@@ -1,0 +1,22 @@
+int, float, double are primitve data types 
+java provides a comprehensive set of liabrires as part of a standard distribution 
+There are standards for our libraries provided by the Java Community Process
+There is extensive documentation for Java using something known as javadoc, a standard for how we produce documentation for Java classes.
+Java code is compiled into an 'intermediate format' called - architecture neutral bytecodes
+java statements end with ; semicolon
+java names can not start with a number 
+When naming constants are all uppercase 
+// used to make comments 
+Multi- line comments start with /* and ends with */
+primivites are places to hold data 
+integer types are byte,short,int, and long
+boolean is true or fales (1 or 0)
+Arrays hold elements of a type and allow you to define a grouping of primitives or objects(refrences) with the same name
+arrays in java are objects 
+to create an array, yoh stste the type followed by square brackets and a name == int[] myIntArray;
+to initialzie an array we use the new operator another set of squre brackts 
+to find the lengeth of the array =  int x = myIntArray.length;
+when using floats you have to tell the computer it is a float ex. float e = 2.7685493f, it can be F or f
+objects are the 9th primitive type
+acess modifer public or private, 
+key word = void

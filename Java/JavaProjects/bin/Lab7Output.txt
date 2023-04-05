@@ -1,0 +1,9 @@
+
+Array in order					A,B,C,D,E,F,G,H,I,J |-
+Array in reverse				J,I,H,G,F,E,D,C,B,A |-
+Array with switched pairs		B,A,D,C,F,E,H,G,J,I|-
+Special print					BI,AJ,DG,CH,FE|-
+Array in order					A,B,C,D,E,F,G,H,I,J |-
+Array in reverse				J,I,H,G,F,E,D,C,B,A |-
+Array with switched pairs		B,A,D,C,F,E,H,G,J,I|-
+Special print					BI,AJ,DG,CH,FE|-

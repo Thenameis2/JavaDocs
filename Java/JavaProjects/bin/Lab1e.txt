@@ -1,0 +1,33 @@
+public class Lab1e {
+    public static void main(String[] args) {  
+        System.out.println(" _  _  _");
+        System.out.println("{o}{o}{o}");
+        System.out.println(" |  |  |");
+        System.out.println("\\|/\\|/\\|/");
+        System.out.println("[~~~~~~~~~]");
+        System.out.println(" |~~~~~~~|");
+        System.out.println(" |_______|");
+
+
+       
+
+
+    }
+}
+/**
+* Program: Lab1e.java
+* Author: Niyah V Harvey 
+*Date: 1/26/2023
+* Description: Example program module to demonstrate how to print a pattern in stars 
+*/
+public class Lab1e {
+    public static void main(String[] args){
+        System.out.println(x: " -  -  -");
+        System.out.println(x:" {o}{o}{o}");
+        System.out.println(x:"  |  |  |");
+        System.out.println(x: " \|/\|/\|/ ");
+        System.out.println(x: "[~~~~~~~~~]");
+        System.out.println( x: "|~~~~~~~|");
+        System.out.println( x: "|_______|");
+    }
+}

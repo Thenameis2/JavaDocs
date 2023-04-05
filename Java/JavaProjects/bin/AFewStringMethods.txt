@@ -1,0 +1,15 @@
+import java.text.Format;
+
+public class AFewStringMethods{
+    public static void main(String[] args){
+
+        String statment =  "java is cool";
+
+     System.out.printf("%-20s%-20s\n","My statement is", statment);
+     int Stringlenght = 
+
+
+    }
+
+
+}

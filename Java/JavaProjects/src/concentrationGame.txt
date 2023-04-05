@@ -1,0 +1,41 @@
+import javax.swing.*;
+import java.awt.*
+public class concentrationGame {
+  public static void main(String[] args) {  
+    JFrame f=new JFrame("Concentration");  
+    f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    JButton button1=new JButton("spades");  
+    JButton button2 = new JButton("hearts");
+    JButton button3 = new JButton("Diamonds");
+    JButton button4 = new JButton("Ace");
+    JButton button5 = new JButton("King");
+    
+// button 1
+    button1.setBounds(1,1,95,95);  
+    f.add(button1); 
+// button 2
+    button2.setBounds(90,1,95,95);  
+    f.add(button2); 
+// button 3
+button3.setBounds(180,1,95,95);  
+    f.add(button3); 
+// button 4
+button4.setBounds(270,1,95,95);  
+    f.add(button4); 
+// button 5
+button5.setBounds(360,1,95,95);  
+
+//register listener  
+//button1.addActionListener(this);//passing current instance 
+    f.add(button5); 
+    f.setSize(600,600);  
+    f.setLayout(null);  
+    f.setVisible(true);   
+}  
+// made a 
+public  void SetUoButtonListener(){
+    ActionListener button1action = new ActionListener(){};
+
+
+}
+}
